@@ -11,7 +11,7 @@
 body {
     background: #343541;
     overflow-y:scroll;
-    /* overflow-x: hidden; */
+    overflow-x: hidden;
 }
 
 .title {
