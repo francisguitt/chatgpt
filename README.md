@@ -1,3 +1,3 @@
 # chatgpt
 
-Projeto funcionando:https://francisguitt.github.io/chatgpt/client/index.html
+Projeto funcionando:https://chatgpt-liard.vercel.app/
